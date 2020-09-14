@@ -57,7 +57,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SravanChittupalli&theme=dark&hide=javascript,html,Scilab,Ruby&langs_count=8)](https://github.com/SravanChittupalli/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SravanChittupalli&layout=compact&theme=dark&hide=javascript,html,Scilab,Ruby&langs_count=8)](https://github.com/SravanChittupalli/github-readme-stats)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=SravanChittupalli&theme=dark" />
 
