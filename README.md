@@ -1,38 +1,32 @@
 
 
-### Hi there, I'm Yogesh Phalak 👋
+### Hi there, I'm Sravan Chittupalli 👋
 
-## I'm an undergrad in Electrical and Electronics Engineering :mortar_board:, Roboticist, Geeky Math Enthusiast, and Epistemophile.  
+## I'm an undergrad in Electronics Engineering :mortar_board:.  
 
-- 🔭 I’m currently working on Robotic Platforms and Advanced Combinatorial Sequences :nerd_face: 
-- 🌱 I’m currently learning everything :grin:  
-- 👯 I’m looking to collaborate to other content creators.
-- :beetle: 2020 Goals: Contribute more to opensource projects.
-- ⚡ Fun fact: I love to draw sketches :pencil: and Hiking :mountain: 
+- 🔭 I’m currently working on Computer Vision and Reinforcement Learning for Autonomous Vehicles :nerd_face: 
+- 🌱 I strongly believe in `KAIZEN`.
+- 👯 I’m looking to collaborate with others who are also motivated towards self-driving cars.
+- :beetle: 2020 Goals: Publish a research paper and work on more intersting self-driving car problems other than computer vision like path planning.
+- ⚡ Fun fact: I love Hiking :mountain: and binge watching anime :stuck_out_tongue_winking_eye:
 
 
 
 ### Connect with me:
 
-<a target="_blank" href="https://www.linkedin.com/in/yogesh31415/">
+<a target="_blank" href="https://www.linkedin.com/in/sravan-chittupalli-a3777b16a/">
   <img align="left" alt="LinkdeIN" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=8698069357">
-  <img align="left" alt="Whatsapp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="https://scholar.google.com/citations?hl=en&user=0T0znbMAAAAJ&view_op=list_works">
-  <img align="left" alt="GoogleScholar" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
-</a>
-<a target="_blank" href="https://twitter.com/Yogesh05602392">
-  <img align="left" alt="twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a target="_blank" href="mailto:yogeshphalak31415@gmail.com">
+<a target="_blank" href="mailto:sravanchittupalli7@gmail.com">
   <img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="https://www.youtube.com/channel/UCsmDp-EjwFJBBDxV-iYXMIw">
+<a target="_blank" href="https://twitter.com/SChittupalli">
+  <img align="left" alt="twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a target="_blank" href="https://www.youtube.com/channel/UCtVoTV6LN6A8thh_c1wyrkw?view_as=subscriber">
   <img align="left" alt="Youtube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a target="_blank" href="https://www.facebook.com/profile.php?id=100008935358101">
+<a target="_blank" href="https://www.facebook.com/sravan.chittupalli/">
   <img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
