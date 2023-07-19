@@ -2,13 +2,12 @@
 
 ### Hi there, I'm Sravan Chittupalli 👋
 
-## I'm an undergrad in Electronics Engineering :mortar_board:.  
+## I'm a Research Programmer Analyst at CMU :mortar_board:.  
 
-- 🔭 I’m currently working on Computer Vision and Reinforcement Learning for Autonomous Vehicles :nerd_face: 
+- 🔭 I’m currently working on 3D Computer Vision and its applications :nerd_face: 
 - 🌱 I strongly believe in `KAIZEN`.
-- 👯 I’m looking to collaborate with others who are also motivated towards self-driving cars.
-- :beetle: 2020 Goals: Publish a research paper and work on more intersting self-driving car problems other than computer vision like path planning.
-- ⚡ Fun fact: I love Hiking :mountain: and binge watching anime :stuck_out_tongue_winking_eye:
+- 👯 I’m looking to collaborate with others working on different applications of 3D vision systems.
+- ⚡ Fun fact: I love Hiking :mountain: and binge-watching anime :stuck_out_tongue_winking_eye:
 
 
 
