@@ -4,7 +4,7 @@
 
 ## I'm a Research Programmer Analyst at CMU :mortar_board:.  
 
-- 🔭 I’m currently working on 3D Computer Vision and its applications :nerd_face: 
+- 🔭 I’m currently working on developing robust perception systems tailored for real-world applications to enable safe autonomous navigation :nerd_face: 
 - 🌱 I strongly believe in `KAIZEN`.
 - 👯 I’m looking to collaborate with others working on different applications of 3D vision systems.
 - ⚡ Fun fact: I love Hiking :mountain: and binge-watching anime :stuck_out_tongue_winking_eye:
@@ -24,9 +24,6 @@
 </a>
 <a target="_blank" href="https://www.youtube.com/channel/UCtVoTV6LN6A8thh_c1wyrkw?view_as=subscriber">
   <img align="left" alt="Youtube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a target="_blank" href="https://www.facebook.com/sravan.chittupalli/">
-  <img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 </br>
